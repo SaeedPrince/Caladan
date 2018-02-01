@@ -73,3 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Large file
+Content/RestrictedAssets/Environments/Outside/Textures/Ground/T_AlpinePatch001_N.uasset
